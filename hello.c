@@ -2,7 +2,7 @@
 
 int main()
 {
-	int a = 0; 
+	int a = 0; //just add an abitrary comment 
 
 	printf("hello, world!"); 
 
